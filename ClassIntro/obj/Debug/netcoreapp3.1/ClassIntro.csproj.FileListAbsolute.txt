@@ -1,0 +1,12 @@
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache
