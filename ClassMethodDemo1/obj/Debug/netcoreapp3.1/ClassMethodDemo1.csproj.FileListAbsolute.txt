@@ -1,0 +1,13 @@
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\obj\Debug\netcoreapp3.1\ClassMethodDemo1.AssemblyInfoInputs.cache
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\obj\Debug\netcoreapp3.1\ClassMethodDemo1.AssemblyInfo.cs
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\obj\Debug\netcoreapp3.1\ClassMethodDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\bin\Debug\netcoreapp3.1\ClassMethodDemo1.exe
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\bin\Debug\netcoreapp3.1\ClassMethodDemo1.deps.json
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\bin\Debug\netcoreapp3.1\ClassMethodDemo1.runtimeconfig.json
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\bin\Debug\netcoreapp3.1\ClassMethodDemo1.runtimeconfig.dev.json
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\bin\Debug\netcoreapp3.1\ClassMethodDemo1.dll
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\bin\Debug\netcoreapp3.1\ClassMethodDemo1.pdb
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\obj\Debug\netcoreapp3.1\ClassMethodDemo1.dll
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\obj\Debug\netcoreapp3.1\ClassMethodDemo1.pdb
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\obj\Debug\netcoreapp3.1\ClassMethodDemo1.genruntimeconfig.cache
+C:\Users\Elif\Desktop\Kamp\Kamp\ClassMethodDemo1\obj\Debug\netcoreapp3.1\ClassMethodDemo1.csprojAssemblyReference.cache
