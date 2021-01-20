@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elif\\Desktop\\Kamp\\Kamp\\ClassIntro\\ClassIntro.csproj",
+      "projectUniqueName": "C:\\Users\\Elif\\Desktop\\kamp C#\\ElifKartal\\Kamp\\ClassIntro\\ClassIntro.csproj",
       "projectName": "ClassIntro",
-      "projectPath": "C:\\Users\\Elif\\Desktop\\Kamp\\Kamp\\ClassIntro\\ClassIntro.csproj",
+      "projectPath": "C:\\Users\\Elif\\Desktop\\kamp C#\\ElifKartal\\Kamp\\ClassIntro\\ClassIntro.csproj",
       "packagesPath": "C:\\Users\\Elif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elif\\Desktop\\Kamp\\Kamp\\ClassIntro\\obj\\",
+      "outputPath": "C:\\Users\\Elif\\Desktop\\kamp C#\\ElifKartal\\Kamp\\ClassIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elif\\AppData\\Roaming\\NuGet\\NuGet.Config",
